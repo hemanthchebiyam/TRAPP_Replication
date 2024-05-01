@@ -1,4 +1,0 @@
-msgpack-python
-colorama
-Dijkstar
-numpy
