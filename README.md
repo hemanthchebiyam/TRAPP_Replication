@@ -186,9 +186,3 @@ Finally, let's now run the TunePlanningResolution strategy, which is also the mo
 
 1.  Open `app/adaptation/strategy/TunePlanningResolution.py` and inspect its logic.
 
-## Troubleshooting
-
-If you need help in using or extending TRAPP, feel free to contact us:
-
-* [Ilias Gerostathopoulos](http://wwwbroy.in.tum.de/~gerostat/), <gerostat@in.tum.de>
-* [Evangelos Pournaras](http://evangelospournaras.com/), <epournaras@ethz.ch>
